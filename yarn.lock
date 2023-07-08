@@ -19,6 +19,11 @@
   dependencies:
     regenerator-runtime "^0.13.11"
 
+"@babylonjs/core@^6.11.1":
+  version "6.11.1"
+  resolved "https://registry.yarnpkg.com/@babylonjs/core/-/core-6.11.1.tgz#c06bea227e59f49875289c32a8a7fa72e15660d5"
+  integrity sha512-H1FowB/pQgcqAFnC6v8Qpl/uLiFqP94ycskZfqnx0J+LZ31O7BxcrICdAyv8hz6mi979B3Bw20AgiDun1z8UOg==
+
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/@eslint-community/eslint-utils/-/eslint-utils-4.4.0.tgz#a23514e8fb9af1269d5f7788aa556798d61c6b59"
@@ -439,6 +444,11 @@ axobject-query@^3.1.1:
   integrity sha512-jsyHu61e6N4Vbz/v18DHwWYKK0bSWLqn47eeDSKPB7m8tqMHF9YJ+mhIk2lVteyZrY8tnSj/jHOv4YiTCuCJgg==
   dependencies:
     dequal "^2.0.3"
+
+babylonjs-hook@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/babylonjs-hook/-/babylonjs-hook-0.1.1.tgz#9c1acc0fbe346b51f2c0a24cf5dbaf42aeb4e5a0"
+  integrity sha512-uLcaX08NJy/1DeI+3GNQWQ2lQazhCR4U4jC6V+xy9rEvCCeFml3EWlwEwZv+8+oSHnMMV761jeQGjn9dVzgfMQ==
 
 balanced-match@^1.0.0:
   version "1.0.2"
